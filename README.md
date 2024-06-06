@@ -1,3 +1,7 @@
+## code challenge preview
+
+https://github.com/mikewainaina/Bot-Battlr/assets/162094676/2bca19ea-4cd4-4d05-b9d9-131819468b4a
+
 # Phase 3 Code Challenge: Articles - without SQLAlchemy (Updated)
 
 In this code challenge, you will be working with a Magazine domain.
